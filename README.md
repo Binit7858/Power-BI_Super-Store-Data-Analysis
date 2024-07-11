@@ -1,1 +1,1 @@
-# SQL_Super-Store-Data-Analysis
+# Super-Store-Data-Analysis
