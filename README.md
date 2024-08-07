@@ -28,7 +28,7 @@
 
 Sales by Product Category:
 
-• The analysis revealed that Technology with $525K and office supplies with $515K were the top-selling product categories, contributing significantly to overall sales.
+• The analysis revealed that Technology with $873K and office supplies with $799K were the top-selling product categories, contributing significantly to overall sales.
 
 • Furniture category also showed steady growth of $392K, indicating potential areas for further investment or promotion.
 
@@ -40,9 +40,9 @@ Geographic Sales Distribution:
 
 Customer Segmentation: 
 
-• The segmentation analysis identified the highest customer segments based on purchase behavior is Consumer with 52%.
+• The segmentation analysis identified the highest customer segments based on purchase behavior is Consumer with 50%.
 
-• Home office with 17% and Corporate with 30% need targeted marketing efforts to be tailored to maximize customer engagement and loyalty.
+• Home office with 19% and Corporate with 31% need targeted marketing efforts to be tailored to maximize customer engagement and loyalty.
 
 </p>
 <h1><a name="conclusion">Conclusion</a></h1>
